@@ -1,0 +1,27 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 1007, in script
+    if notepad4 and notepad3:
+  File "game/script.rpy", line 1007, in <module>
+    if notepad4 and notepad3:
+NameError: name 'notepad3' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 1007, in script
+    if notepad4 and notepad3:
+  File "C:\Users\dennis\Desktop\renpy-6.99.14-sdk\renpy\ast.py", line 1702, in execute
+    if renpy.python.py_eval(condition):
+  File "C:\Users\dennis\Desktop\renpy-6.99.14-sdk\renpy\python.py", line 1835, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\dennis\Desktop\renpy-6.99.14-sdk\renpy\python.py", line 1828, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 1007, in <module>
+    if notepad4 and notepad3:
+NameError: name 'notepad3' is not defined
+
+Windows-8-6.2.9200
+Ren'Py 6.99.14.3135
+Game voor DICK1 1.3
