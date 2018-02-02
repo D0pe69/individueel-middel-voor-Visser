@@ -1,0 +1,13 @@
+# individueel-middel-voor-Visser
+Ik heb de afgelopen tijd een "Visual Novel" gemaakt.
+Een interactieve novel dus letterlijk vertaalt.
+Dit heb ik gedaan door gebruik te maken van de python library ren'py. 
+Met deze library heb ik de hele game gecode. 
+Dat wil dus zeggen van karakter placement, muziek, geluidseffecten de tekst, keuzes etc. 
+
+Kort gezegd, het verhaal, programmering etc. zijn van mij afkomstig.
+
+
+Tevens heb ik bepaalde middelen nog aangepast in photoshop
+De gebruikte assets, dat wil zeggen, plaatjes, achtergronden en muziek zijn allemaal royalty free en vallen ze onder de fair use.
+In het main menu van de game staat onder het menutje "About" Waar ik de resources vandaan heb gehaald.
