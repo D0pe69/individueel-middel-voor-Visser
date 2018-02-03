@@ -1,6 +1,8 @@
 # individueel-middel-voor-Visser
 # Ik heb alleen de Windows distributie van het programma kunnen testen, aangezien ik zelf niet over een Macbook bezit
 # Ik ben benieuwd wat u ervan vindt!
+# https://mega.nz/#!aYNiAJiS!3R54cMjckZSYrp1MGilcLLlUe9MLEfdKPVMbjlQPvng Mac Distributie
+# https://mega.nz/#!SNEzhbja!3RA253Cn_mOgPswLhPAUdOd7w1anZdj62HAXvjy4eA8 Windows Distributie
 Ik heb de afgelopen tijd een "Visual Novel" gemaakt.
 Een interactieve novel dus letterlijk vertaalt.
 Dit heb ik gedaan door gebruik te maken van de python library ren'py. 
