@@ -1,6 +1,6 @@
 # individueel-middel-voor-Visser
-# 
-#
+# Ik heb alleen de Windows distributie van het programma kunnen testen, aangezien ik zelf niet over een Macbook bezit
+# Ik ben benieuwd wat u ervan vindt!
 Ik heb de afgelopen tijd een "Visual Novel" gemaakt.
 Een interactieve novel dus letterlijk vertaalt.
 Dit heb ik gedaan door gebruik te maken van de python library ren'py. 
@@ -19,5 +19,3 @@ Dat betekende uiteindelijk dat ik tijdens het leren programmeren in deze library
 
 
 
-#Ik heb alleen de Windows distributie van het programma kunnen testen, aangezien ik zelf niet over een Macbook bezit.
-#Ik ben benieuwd wat u ervan vindt
